@@ -1,6 +1,7 @@
 class A{
 		 int x;
 }
+
 class B extends A{
 		public void f1(){
 			int x=3;
